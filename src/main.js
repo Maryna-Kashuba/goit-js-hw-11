@@ -1,5 +1,5 @@
 import { PixabayApi } from './js/pixabay-api';
-import { renderCards } from './js/render-functios';
+import { renderCards } from './js/render-functions';
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
 
